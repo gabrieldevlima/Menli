@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980063241435",
+    "firebase_url": "https://menli-biga.firebaseio.com",
+    "project_id": "menli-biga",
+    "storage_bucket": "menli-biga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980063241435:android:0b61f4caf6511dc9ef78fe",
+        "android_client_info": {
+          "package_name": "com.biga.menli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980063241435-haujmaal0q2m6nfk3cdoni9n2s989e1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biga.menli",
+            "certificate_hash": "c1eec54aaf23a86381f9092b4c697b63af6430d4"
+          }
+        },
+        {
+          "client_id": "980063241435-g3a6v4grg5tcbkpi86i2q911tu8madf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwryoXow9Fd7elzMQzU_n7hrmt6I2BIRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980063241435-g3a6v4grg5tcbkpi86i2q911tu8madf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
